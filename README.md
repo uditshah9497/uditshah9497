@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udit Shah</h1>
 <h3 align="center">Versatile Full Stack Developer</h3>
 
-<img align="right alt="coding" width ="400" src=" https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif ">
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" alt="coding" width ="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditshah9497&label=Profile%20views&color=0e75b6&style=flat" alt="uditshah9497" /> </p>
 
@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1arK7ai41NfEj--B2FJZxONC-hTdFTqxk/view?usp=drive_link](https://drive.google.com/file/d/1arK7ai41NfEj--B2FJZxONC-hTdFTqxk/view?usp=drive_link)
+- 👨‍💻 All of my projects are available at
+   [https://tinyurl.com/zpay8sc7]
 
 - 📫 How to reach me **ushah9497@gmail.com**
 
